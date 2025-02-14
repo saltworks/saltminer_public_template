@@ -7,7 +7,10 @@ Licensor:             Saltworks Security, Inc.
 Licensed Work:        Saltworks SaltMiner (TM) version 3.X
                       The Licensed Work is (c) 2025 Saltworks Security, Inc
 Additional Use Grant: You may use the Licensed Work with Elastic Search 
-                      Basic or Elastic Search Standard in production. 
+                      Basic or Elastic Search Standard in production with a 
+                      maximum of 1,000,000 "active" issues being tracked. 
+                      "Active" is defined as an issue that is currently open
+                      in the source system.
 
 Change Date:          2029-01-28
 
